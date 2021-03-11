@@ -41,6 +41,7 @@ time.sleep(0.3)
 print("100%■■■■■■■■■")
 time.sleep(0.4)
 os.system("clear")
+print("made by _hqvr & t8pr")
 print("""
 
     __________   ________  ________________ __ ____ 
